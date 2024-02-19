@@ -1,7 +1,7 @@
 # TitonDB
 Simple, beginer-friendly JSON based database.
 
-![TitonDB logo](https://imgur.com/Kbb8mME.png)
+![TitonDB logo](https://imgur.com/Fcytnjf.png)
 
 > This package is in the early access phase.
 ## Installation
