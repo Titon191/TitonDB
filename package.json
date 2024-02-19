@@ -1,0 +1,16 @@
+{
+  "name": "titondb",
+  "version": "1.1.0",
+  "description": "Simple JSON based database",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "db",
+    "json",
+    "database"
+  ],
+  "author": "Titon191",
+  "license": "MIT"
+}
